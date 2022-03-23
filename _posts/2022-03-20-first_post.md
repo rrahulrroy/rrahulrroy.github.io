@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "First post"
 date: 2022-03-20
 categories: random
